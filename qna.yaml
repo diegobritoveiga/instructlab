@@ -1,0 +1,203 @@
+---
+created_by: dveiga
+version: 3
+domain: sports
+seed_examples:
+  - context: >
+      The 2024 Summer Olympics (French: Jeux olympiques d'été de 2024),
+      officially the Games of the XXXIII Olympiad (French: Jeux de la XXXIIIe
+      olympiade de l'ère moderne) and branded as Paris 2024, were an
+      international multi-sport event held from 26 July to 11 August 2024 in
+      France, with several events started from 24 July. Paris was the host city,
+      with events (mainly football) held in 16 additional cities spread across
+      metropolitan France, including the sailing centre in the second-largest
+      city of France, Marseille, on the Mediterranean Sea, as well as one
+      subsite for surfing in Tahiti, French Polynesia.
+
+      Paris was awarded the Games at the 131st IOC Session in Lima, Peru, on 13 September 2017. After multiple withdrawals that left only Paris and Los Angeles in contention, the International Olympic Committee (IOC) approved a process to concurrently award the 2024 and 2028 Summer Olympics to the two remaining candidate cities; both bids were praised for their high technical plans and innovative ways to use a record-breaking number of existing and temporary facilities. Having previously hosted in 1900 and 1924, Paris became the second city ever to host the Summer Olympics three times (after London, which hosted the games in 1908, 1948, and 2012). Paris 2024 marked the centenary of Paris 1924 and Chamonix 1924 (the first Winter Olympics), as well as the sixth Olympic Games hosted by France (three Summer Olympics and three Winter Olympics) and the first with this distinction since the 1992 Winter Games in Albertville. The Summer Games returned to the traditional four-year Olympiad cycle, after the 2020 edition was postponed to 2021 due to the COVID-19 pandemic.
+
+      Paris 2024 featured the debut of breaking as an Olympic sport, and was the final Olympic Games held during the IOC presidency of Thomas Bach. The 2024 Games were expected to cost €9 billion. The opening ceremony was held outside of a stadium for the first time in modern Olympic history, as athletes were paraded by boat along the Seine. Paris 2024 was the first Olympics in history to reach full gender parity on the field of play, with equal numbers of male and female athletes.
+
+      The United States topped the medal table for the fourth consecutive Summer Games and 19th time overall, with 40 gold and 126 total medals. China tied with the United States on gold (40), but finished second due to having fewer silvers; the nation won 91 medals overall. This is the first time a gold medal tie among the two most successful nations has occurred in Summer Olympic history. Japan finished third with 20 gold medals and sixth in the overall medal count. Australia finished fourth with 18 gold medals and fifth in the overall medal count. The host nation, France, finished fifth with 16 gold and 64 total medals, and fourth in the overall medal count. Dominica, Saint Lucia, Cape Verde and Albania won their first-ever Olympic medals, the former two both being gold, with Botswana and Guatemala also winning their first-ever gold medals. The Refugee Olympic Team also won their first-ever medal, a bronze in boxing. At the conclusion of the games, despite some controversies throughout relating to politics, logistics and conditions in the Olympic Village, the Games were considered a success by the press, Parisians and observers. The Paris Olympics broke all-time records for ticket sales, with more than 9.5 million tickets sold (12.1 million including the Paralympic Games).
+    questions_and_answers:
+      - question: |
+          When was the last summer Olympics games?
+        answer: |
+          The last Olympics games held from 26 July to 11 August 2024 in France.
+      - question: |
+          How was the expected costs for the France Olympics games?
+        answer: |
+          The 2024 Games were expected to cost €9 billion.
+      - question: |
+          Which country was the top medalist?
+        answer: >
+          The United States topped the medal table for the fourth consecutive
+          Summer Games and 19th time overall, with 40 gold and 126 total medals.
+          China tied with the United States on gold (40), but finished second
+          due to having fewer silvers; the nation won 91 medals overall.
+  - context: >
+      Having previously hosted the 1900 and 1924 Games, Paris did not attempt
+      to host the Olympics again until it bid, unsuccessfully, for the 1992
+      Games which were awarded to Barcelona. Subsequent bids for the 2008 and
+      2012 Games were also unsuccessful, as they were awarded to Beijing and
+      London, respectively. Undeterred, Paris decided to bid once more for the
+      2024 edition, which would mark the centenary of its last Games. The six
+      candidate cities were Paris, Hamburg, Boston, Budapest, Rome, and Los
+      Angeles. The bidding process was slowed by withdrawals, political
+      uncertainty, and rising costs. Boston surpassed Los Angeles, San
+      Francisco, and Washington, DC, for the official U.S. bid. On 27 July 2015,
+      Boston and the USOC mutually agreed to terminate Boston's bid to host the
+      Games, partly because of mixed feelings among city residents. Hamburg
+      withdrew its bid on 29 November 2015 after holding a referendum. Rome
+      withdrew on 21 September 2016, citing fiscal difficulties. Budapest
+      withdrew on 22 February 2017, after a petition against the bid collected
+      more signatures than necessary for a referendum. Following these
+      withdrawals, the IOC Executive Board met on 9 June 2017 in Lausanne,
+      Switzerland, to discuss the 2024 and 2028 bid processes. The International
+      Olympic Committee formally proposed electing the 2024 and 2028 Olympic
+      host cities at the same time, a proposal which an Extraordinary IOC
+      Session approved on 11 July 2017 in Lausanne. The IOC set up a process
+      whereby the LA 2024 and Paris 2024 bid committees met with the IOC to
+      discuss which city would host the Games in 2024 and 2028 and whether it
+      was possible to select the host cities for both at the same time.
+      Following the decision to award the two Games simultaneously, Paris was
+      understood to be the preferred host for 2024. On 31 July 2017, the IOC
+      announced Los Angeles as the sole candidate for 2028, enabling Paris to be
+      confirmed as host for 2024. Both decisions were ratified at the 131st IOC
+      Session on 13 September 2017.
+    questions_and_answers:
+      - question: >
+          Prior to 2024 when was the last time Paris hosted another Olympics
+          Games?
+        answer: |
+          Paris already hosted the 1900 and 1924 Olympics Games.
+      - question: |
+          What were the others candidates to host the 2024 Olympic Games?
+        answer: >
+          The six candidate cities were Paris, Hamburg, Boston, Budapest, Rome,
+          and Los Angeles.
+      - question: |
+          What city will host the next Olympics Games for 2028?
+        answer: >
+          The IOC announced Los Angeles as the sole candidate for 2028, enabling
+          Paris to be confirmed as host for 2024. Both decisions were ratified
+          at the 131st IOC Session on 13 September 2017.
+  - context: >
+      The opening ceremony began at 19:30 CEST (17:30 GMT) on 26 July 2024.
+      Directed by Thomas Jolly, it was the first Summer Olympics opening
+      ceremony to be held outside the traditional stadium setting (and the
+      second ever after the 2018 Youth Olympic Games one, held at Plaza de la
+      República in Buenos Aires); the parade of athletes was conducted as a boat
+      parade along the Seine from Pont d'Austerlitz to Pont d'Iéna, and cultural
+      segments took place at various landmarks along the route. Jolly stated
+      that the ceremony would highlight notable moments in the history of
+      France, with an overall theme of love and "shared humanity". The athletes
+      then attended the official protocol at Jardins du Trocadéro, in front of
+      the Eiffel Tower. Approximately 326,000 tickets were sold for viewing
+      locations along the Seine, 222,000 of which were distributed primarily to
+      the Games' volunteers, youth and low-income families, among others. The
+      ceremony featured music performances by American musician Lady Gaga,
+      French-Malian singer Aya Nakamura, heavy metal band Gojira and soprano
+      Marina Viotti, Axelle Saint-Cirel (who sang the French national anthem "La
+      Marseillaise" atop the Grand Palais), rapper Rim'K, Philippe Katerine (who
+      portrayed the Greek god Dionysus), Juliette Armanet and Sofiane Pamart,
+      and was closed by Canadian singer Céline Dion.
+    questions_and_answers:
+      - question: |
+          When was the opening ceremony?
+        answer: |
+          The opening ceremony began at 19:30 CEST (17:30 GMT) on 26 July 2024.
+      - question: |
+          Where was the opening ceremony?
+        answer: >
+          The parade of athletes was conducted as a boat parade along the Seine
+          from Pont d'Austerlitz to Pont d'Iéna, and cultural segments took
+          place at various landmarks along the route.
+      - question: |
+          How much tickets and people was sold for the opening ceremony?
+        answer: >
+          Approximately 326,000 tickets were sold for viewing locations along the
+          Seine, 222,000 of which were distributed primarily to the Games'
+          volunteers, youth and low-income families, among others.
+  - context: >
+      The programme of the 2024 Summer Olympics featured 329 events in 32
+      sports, encompassing a total of 48 disciplines. This included the 28
+      "core" Olympic sports contested in 2016 and 2020, and 4 optional sports
+      that were proposed by the Paris Organising Committee: breakdancing made
+      its Olympic debut as an optional sport, while skateboarding, sport
+      climbing, and surfing returned to the programme, having debuted at the
+      2020 Summer Olympics. Four events were dropped from weightlifting. In
+      canoeing, two sprint events were replaced with two slalom events, keeping
+      the overall event total at 16. In sport climbing, the previous "combined"
+      event was divided into two separate disciplines: speed climbing, and
+      boulder-and-lead. When Paris was bidding for the Games in August 2017, the
+      Paris Organising Committee announced an intention to hold talks with the
+      IOC and professional esports organisations about the possibility of
+      introducing competitive esports events in 2024. In July 2018, the IOC
+      confirmed that esports would not be considered for the 2024 Olympics. At
+      the 134th IOC Session in June 2019, the IOC approved the Paris Organising
+      Committee's proposed optional sports of breaking (breakdance), along with
+      skateboarding, sport climbing, and surfing, three sports that were first
+      included in 2020. In the 2024 Paris Olympics, several new events and
+      formats have been introduced. Formula Kite made its debut, described as
+      the "Formula One of the Olympics", featuring high-speed foil racing with
+      separate events for men and women. Kayak cross also debuted, where four
+      athletes race against each other on a course with multiple gates, marking
+      the first head-to-head race in Olympic canoe slalom history. Sport
+      climbing returned with a new format, splitting into bouldering and lead
+      combined events in addition to a speed event. 3x3 basketball, which
+      debuted in Tokyo, was back with finals scheduled for August 5 at Place de
+      La Concorde. Changes in other sports included the introduction of men's
+      participation in artistic swimming, a new women's weight class in boxing,
+      and the addition of a marathon race walk mixed relay in track and field.
+    questions_and_answers:
+      - question: |
+          How many sports did feature in the 2024 Olympic Games programme?
+        answer: >
+          The programme of the 2024 Summer Olympics featured 329 events in 32
+          sports, encompassing a total of 48 disciplines.
+      - question: |
+          What optional sport was proposed by the Paris Organising Committee?
+        answer: >
+          Breakdancing made its Olympic debut as an optional sport proposed by
+          Paris Organising Committee.
+      - question: |
+          When did 3x3 basketball sport debut in the Olympics Games?
+        answer: |
+          3x3 basketball debuted in Tokyo.
+  - context: >
+      The closing ceremony was held at Stade de France on 11 August 2024, and
+      thus marked the first time in any Olympic edition since Sarajevo 1984 that
+      opening and closing ceremonies were held in different locations. Titled
+      "Records", the ceremony was themed around a dystopian future, where the
+      Olympic Games have disappeared, and a group of aliens reinvent it. It
+      featured more than a hundred performers, including acrobats, dancers and
+      circus artists. American actor Tom Cruise also appeared with American
+      performers Red Hot Chili Peppers, Billie Eilish, Snoop Dogg, and H.E.R.
+      during the LA28 Handover Celebration portion of the ceremony. The Antwerp
+      Ceremony, in which the Olympic flag was handed to Los Angeles, the host
+      city of the 2028 Summer Olympics, was produced by Ben Winston and his
+      studio Fulwell 73.
+    questions_and_answers:
+      - question: |
+          When and where was the closing ceremony?
+        answer: |
+          The closing ceremony was held at Stade de France on 11 August 202.
+      - question: |
+          What was the theme of the closing ceremony?
+        answer: >
+          Titled "Records", the ceremony was themed around a dystopian future,
+          where the Olympic Games have disappeared, and a group of aliens
+          reinvent it.
+      - question: |
+          What rock bands did participate in the closing ceremony?
+        answer: >
+          Red Hot Chili Peppers, Billie Eilish, Snoop Dogg, and H.E.R participated
+          during the LA28 Handover Celebration portion of the ceremony.
+document_outline: |
+  Information regarding the last Olympic games happened in Paris during 2024.
+document:
+  repo: https://github.com/diegobritoveiga/instructlab_git_dveiga.git
+  commit: b2164fa
+  patterns:
+    - Olympic_games_2024_Paris.md
