@@ -198,6 +198,6 @@ document_outline: |
   Information regarding the last Olympic games happened in Paris during 2024.
 document:
   repo: https://github.com/diegobritoveiga/instructlab_git_dveiga.git
-  commit: b2164fa
+  commit: b2164fa9a530d6380e2a9c0d5efcf383fd63421f
   patterns:
     - Olympic_games_2024_Paris.md
